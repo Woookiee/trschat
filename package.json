@@ -1,0 +1,25 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "audio chat",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.10.8",
+    "uuid": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Woookiee/trschat.git"
+  },
+  "author": "Daler Khabibov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Woookiee/trschat/issues"
+  },
+  "homepage": "https://github.com/Woookiee/trschat#readme"
+}
